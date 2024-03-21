@@ -1,4 +1,4 @@
-# Socket Programming
+# Simple client-server architecture
 This assignment consists in create a client-server architecture where the client stablish a TCP conection with the client to get a port number to subsecuently send through that received port using an UDP socket a message. The server should received the message and returned it reversed.
 
 ## Compile/run the program
